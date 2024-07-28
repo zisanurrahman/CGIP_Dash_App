@@ -4,5 +4,4 @@ plotly.express
 numpy
 dash_table
 rdkit
-base64
 gunicorn
