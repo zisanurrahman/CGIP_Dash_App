@@ -1,9 +1,7 @@
 dash==2.14.2
 pandas
-plotly.express
+plotly
 numpy
-dash_table
 rdkit
-dash_bootstrap_components
 app
 gunicorn
