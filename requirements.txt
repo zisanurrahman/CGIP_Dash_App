@@ -3,8 +3,7 @@ pandas
 plotly.express
 numpy
 dash_table
-Chem
-rdkit.Chem
+rdkit
 BytesIO
 base64
 gunicorn
