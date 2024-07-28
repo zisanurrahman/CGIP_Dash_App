@@ -2,7 +2,6 @@ dash==2.14.2
 pandas
 plotly.express
 numpy
-dash_table
 rdkit==2024.03.3
 base64
 gunicorn
