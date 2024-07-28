@@ -4,5 +4,6 @@ plotly.express
 numpy
 dash_table
 rdkit
+dash_bootstrap_components
 app
 gunicorn
