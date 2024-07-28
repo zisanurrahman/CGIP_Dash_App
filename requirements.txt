@@ -4,6 +4,6 @@ plotly.express
 numpy
 dash_table
 rdkit
-BytesIO
+io
 base64
 gunicorn
