@@ -1,8 +1,8 @@
 dash==2.14.2
-pandas
-plotly
-numpy
+pandas==2.0.3
+plotly==5.22.0
+numpy==1.22.3
 rdkit==2024.03.3
-dash_bootstrap_components
-app
-gunicorn
+dash_bootstrap_components==1.6.0
+dash_table==5.2.8
+gunicorn==22.0.0
