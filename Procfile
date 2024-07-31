@@ -1,1 +1,1 @@
-web: gunicorn app:server
+web: gunicorn CGIP_Dash_App:server
