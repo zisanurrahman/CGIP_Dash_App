@@ -9,6 +9,7 @@ from rdkit import Chem
 from rdkit.Chem import Draw, Lipinski, Descriptors
 from io import BytesIO
 import base64
+import gunicorn
 
 # Load and preprocess data
 df = pd.read_csv('https://zenodo.org/records/13117525/files/unique_drugs_filtered_sorted_volcano_shiny_filtered2.csv')
